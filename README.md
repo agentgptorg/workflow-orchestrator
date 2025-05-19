@@ -100,19 +100,22 @@ workflow-orchestrator/
 
 ## Development Status
 
-```mermaid
-gantt
-    title Development Progress
-    section Core
-    Workflow Engine    :done, 100%
-    AI Integration     :active, 75%
-    section Blockchain
-    Smart Contracts    :active, 60%
-    Payment Processing :30%
-    section Testing
-    Unit Tests         :active, 80%
-    Integration Tests  :45%
-```
+### Core Components
+- Workflow Engine: [██████████] 100%
+- AI Integration: [████████░░] 75%
+
+### Blockchain
+- Smart Contracts: [██████░░░░] 60%
+- Payment Processing: [███░░░░░░░] 30%
+
+### Testing
+- Unit Tests: [████████░░] 80%
+- Integration Tests: [████░░░░░░] 45%
+
+**Legend:**
+- ✅ Completed (100%)
+- 🔄 In Progress
+- ⏳ Not Started
 
 ## Contributing
 
